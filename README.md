@@ -1,4 +1,4 @@
-# A collection of Coding Works
+# A Collection of Coding Works
 
 ## Java
 
