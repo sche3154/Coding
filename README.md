@@ -2,11 +2,11 @@
 
 ## Java
 
-* Vendor Machine (![Coding](/Java/VendorMachine/))
-* 2D Retro Style Game (![Coding](/Java/retro_game/))
-* Scrolling Shooter Arcade Video Game (![Coding](/Java/Fight_Aliean/))
+* Vendor Machine (![VendorMachine](/Java/VendorMachine/))
+* 2D Retro Style Game (![retro_game](/Java/retro_game/))
+* Scrolling Shooter Arcade Video Game (![Fight_Aliean](/Java/Fight_Aliean/))
 
 ## C
 
-* Git Control Stimulation (![Coding](/C/SVC/))
-* Huffman_Coding (![Coding](/C/Huffman_Coding/))
+* Git Control Stimulation (![SVC](/C/SVC/))
+* Huffman_Coding (![Huffman_Coding](/C/Huffman_Coding/))
