@@ -4,7 +4,7 @@
 
 * Vendor Machine (![VendorMachine](/Java/VendorMachine/))
 * 2D Retro Style Game (![retro_game](/Java/retro_game/))
-* Scrolling Shooter Arcade Video Game (![Fight_Aliean](/Java/Fight_Alien/))
+* Scrolling Shooter Arcade Video Game (![Fight_Alien](/Java/Fight_Alien/))
 
 ## C
 
