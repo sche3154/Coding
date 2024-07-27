@@ -3,13 +3,17 @@ package stickman;
 import javafx.application.Application;
 import javafx.stage.Stage;
 import stickman.model.GameEngine;
-import stickman.model.GameEngineImpl;
+import stickman.model.GameManager;
 import stickman.view.GameWindow;
 
 import java.util.Map;
 
 public class App extends Application {
 
+    /**
+     * The main method for the program. Launches the application and creates a window.
+     * @param args Command line arguments passed to the program
+     */
     public static void main(String[] args) {
         launch(args);
     }
@@ -24,7 +28,7 @@ public class App extends Application {
                     " as your code will fail to compile on Java 10 and below.");
         }
 
-        GameEngine model = new GameEngineImpl("default.json");
+        GameEngine model = new GameManager("levels/levels.json");
         GameWindow window = new GameWindow(model, 640, 400);
         window.run();
 
