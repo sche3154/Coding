@@ -1,0 +1,17 @@
+Item_code,Item_name,price,category,in_stock
+	0001,Mineral Water,2.99,Drinks,9
+	0002,Sprite,3.99,Drinks,7
+	0003,Coca cola,2.99,Drinks,7
+	0004,Pepsi,4.99,Drinks,7
+	0005,Juice,2.99,Drinks,7
+	0006,Mars,4.99,Chocolates,7
+	0007,M&M,3.99,Chocolates,7
+	0008,Bounty,6.99,Chocolates,7
+	0009,Snickers,2.99,Chocolates,7
+	0010,Smiths,3.99,Chips,7
+	0011,Pringles,5.99,Chips,7
+	0012,Kettle,2.99,Chips,7
+	0013,Thins,4.99,Chips,7
+	0014,Mentos,2.99,Candies,7
+	0015,Sour Patch,4.99,Candies,7
+	0016,Skittles,2.99,Candies,7

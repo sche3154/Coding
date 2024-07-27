@@ -1,0 +1,88 @@
+[
+  {
+    "stickmanSize" : "normal",
+    "floorHeight" : 300,
+    "levelHeight" : 400,
+    "levelWidth"  : 600,
+    "platforms"  :  [
+      {
+        "size" : 4,
+        "startPositionX" : 100,
+        "startPositionY" : 250
+      },
+
+      {
+        "size" : 7,
+        "startPositionX" : 300,
+        "startPositionY" : 250
+      },
+
+      {
+        "size" : 5,
+        "startPositionX" : 350,
+        "startPositionY" : 200
+      },
+
+      {
+        "size" : 3,
+        "startPositionX" : 300,
+        "startPositionY" : 150
+      },
+
+      {
+        "size" : 3,
+        "startPositionX" : 250,
+        "startPositionY" : 100
+      },
+
+      {
+        "size" : 2,
+        "startPositionX" : 200,
+        "startPositionY" : 50
+      }
+
+    ],
+
+    "slimes" : [
+      {
+        "ImagePath" : "slimeBa.png",
+        "startPositionX" : 300,
+        "startPositionY" : 300
+      },
+
+
+      {
+        "ImagePath" : "slimeYa.png",
+        "startPositionX" : 120,
+        "startPositionY" : 250
+      }
+    ],
+
+    "FlagY" : 50,
+    "FlagX" : 210,
+
+    "mushRooms" : [
+
+      {
+        "mushRoomX" : 330,
+        "mushRoomY" : 300,
+        "height" : 16,
+        "width"  : 16
+      },
+
+      {
+        "mushRoomX" : 260,
+        "mushRoomY" : 100,
+        "height" : 16,
+        "width"  : 16
+      }
+
+
+
+    ]
+
+  }
+
+
+
+]
